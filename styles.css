@@ -1,0 +1,98 @@
+body {
+   
+}
+.container-fluid {
+    padding: 3% 15%;
+}
+#Services {
+    background-color: #fff;
+    padding: 6% 15%;
+}
+#Pricing {
+    background-color: #A2CDB0;
+    padding: 6% 15%;
+}
+
+#Contact {
+    padding: 6% 15%;
+}
+#Footer {
+    background-color: #729E59;
+    padding: 6% 15%;
+    text-align: center;
+}
+
+
+/* Headings  */
+
+.title-heading {
+    color: #729E59;
+    font-weight: 700;
+    margin-top: 100px;
+    /* text-align: center; */
+
+}
+
+/* images */
+
+.qasai-pic {
+    width: 500px;
+    height: 600px;
+}
+
+/* Navigation */
+
+#Header{
+    background-color: #A2CDB0;
+}
+.main-title {
+    padding:0 10px;
+    font-size: 30px;
+    font-family:Quicksand,sans-serif;
+    font-weight: 900;
+    color: #9D689E;
+    border: solid 5px white; 
+
+}
+.nav-text {
+    color: #729E59;
+    margin: 0 10px;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+
+
+/* Services */
+
+.service-box {
+    text-align: center;
+    padding: 80px;
+}
+
+/* Pricing  */
+.price-card {
+    padding:70px ;
+    text-align: center;
+
+}
+
+/* Contact  */
+.contact-box {
+    padding: 80px ;
+    text-align: center;
+    
+}
+.contact-link {
+    color:#729E59;
+    text-decoration:none;
+
+}
+.bb {
+    border: solid 20px #729E59;
+}
+
+/* footer  */
+.footer-icons {
+    margin:  10px;
+}
